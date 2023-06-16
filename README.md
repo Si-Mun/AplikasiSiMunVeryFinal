@@ -1,5 +1,4 @@
-# AplikasiSiMunVeryFinal
-Aplikasi SiMun
+# Aplikasi SiMun
 
 Here's the requirement to replicate our apps:
 * Use Android Studio Flamingo
